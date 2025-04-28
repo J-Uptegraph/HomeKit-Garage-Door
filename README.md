@@ -19,7 +19,7 @@ An ESP32-based HomeKit accessory for remotely opening and closing your garage do
 - `/servo_model`: Servo 3D model reference
 
 ## Wiring
-![ESP32 Pinout](ESP32_Pinout.jpg)
+![ESP32 Pinout](hardware/esp32_pinout.jpg)
 
 ## Assembly
 1. Print the enclosure and mount.
