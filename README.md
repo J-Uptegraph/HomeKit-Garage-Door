@@ -1,4 +1,4 @@
-# HomeKit Garage Door
+# HomeKit Garage Door Control Switch
 
 An ESP32-based HomeKit accessory for remotely opening and closing your garage door. Works with iPhone and Apple Care Play. Includes custom 3D-printed housings and servo mountings.
 
